@@ -1,0 +1,1 @@
+#i made this file to practice coding a landing page from the scratch
